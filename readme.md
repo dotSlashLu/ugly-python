@@ -33,3 +33,9 @@ language for a task wisely.
 认为不适合Python的场景。如果某天被问起为什么讨厌/不使用Python，我可以拿出来这个
 给他们看。另外，记录一下不好的部分，或许可以帮助避开它们，来理解好的部分，从而更
 好地使用Python，或者更明智地选择编程语言。
+
+---
+
+# TOC
+## [Naming WTFs](./naming.md)
+## [Inconsistency WTFs](./inconsistency.md)
